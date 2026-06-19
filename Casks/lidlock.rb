@@ -1,6 +1,6 @@
 cask "lidlock" do
-  version "1.1.0"
-  sha256 "09c2a796d81e1fcb8930dd30f356aca8a41413aadf66277b4f14186071d0c1b7"
+  version "1.1.1"
+  sha256 "fd4332c3b90b3924fe1a7fba31cde00881edbff7f6e1ddff8e96ec29dd2ce201"
 
   url "https://github.com/DelPage/lidlock/releases/download/v#{version}/LidLock.dmg",
       verified: "github.com/DelPage/lidlock/"
